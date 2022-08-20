@@ -5,6 +5,7 @@ const express = require ("express")
 const app = express()
 
 //Destructuración
+//Variables de entorno
 const {
     DB_USERNAME,
     DB_PASSWORD,
